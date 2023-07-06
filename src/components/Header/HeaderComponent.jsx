@@ -13,12 +13,12 @@ export const HeaderComponent = () => {
         <div className="pr-2">
           <HeaderDarkButton />
         </div>
-        <div>
+        {/* <div>
           <NotifyComponent />
         </div>
         <div className="pl-5">
           <UserComponent/>
-        </div>
+        </div> */}
       </div>
     </div>
   );
